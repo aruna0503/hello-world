@@ -1,4 +1,2 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Hello Aruna glad to see you </h2>
-<h3> Congrats on completing the pipeline suucessfully </h3>
-<h4> yes!!! </h4>
+<h1> Hello, Welcome to DevOps Project !!   </h1>
+<h2> Congrats on completing the pipeline suucessfully </h2>
